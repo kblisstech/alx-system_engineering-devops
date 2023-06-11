@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 'y/Ac/Ze/' <<< "Sample input string"
+tr "A" "Z" | tr "c" "e"
