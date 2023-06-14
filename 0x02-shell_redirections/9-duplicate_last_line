@@ -1,1 +1,2 @@
-15-countthatword
+#!/bin/bash
+tail -n 1 iacta >> iacta
